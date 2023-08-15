@@ -1,0 +1,13 @@
+name: prediction_interface_numbers_typing
+title: prediction_interface_numbers_typing
+username:
+account: m-thesis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8362223
+bundleId: 6876009
+url: https://m-thesis.shinyapps.io/prediction_interface_numbers_typing/
+when: 1677096046.87942
+lastSyncTime: 1677096046.87944
+asMultiple: FALSE
+asStatic: FALSE

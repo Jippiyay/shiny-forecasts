@@ -1,0 +1,14 @@
+name: prediction_interface_seasonal_data_constant_left
+title: prediction_interface_seasonal_data_constant_left
+username:
+account: m-thesis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8609980
+bundleId: 7025071
+url: https://m-thesis.shinyapps.io/prediction_interface_seasonal_data_constant_left/
+when: 1680119539.4236
+lastSyncTime: 1680119539.42361
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dockerfile

@@ -1,0 +1,14 @@
+name: prediction_interface_seasonal_data_decreasing_right
+title: prediction_interface_seasonal_data_decreasing_right
+username:
+account: m-thesis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8610010
+bundleId: 7025084
+url: https://m-thesis.shinyapps.io/prediction_interface_seasonal_data_decreasing_right/
+when: 1680119888.8192
+lastSyncTime: 1680119888.81921
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dockerfile
